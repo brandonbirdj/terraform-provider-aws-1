@@ -1,8 +1,8 @@
 {
   "packageRules": [
     {
-      "matchPackagePatterns": ["golang"],
-      "groupName": "golang"
+      "matchPackagePatterns": ["gomod"],
+      "groupName": "gomod"
     }
   ]
 }
