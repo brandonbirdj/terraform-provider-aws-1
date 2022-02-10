@@ -1,8 +1,8 @@
 {
   "packageRules": [
     {
-      "matchPackagePatterns": ["terraform"],
-      "groupName": "terraform"
+      "matchPackagePatterns": ["golang"],
+      "groupName": "golang"
     }
   ]
 }
